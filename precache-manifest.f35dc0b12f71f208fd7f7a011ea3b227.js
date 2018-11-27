@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/uziday.logo.ee33ebe9.png"
   },
   {
-    "revision": "51fc82773143e4543234",
+    "revision": "a324ca823aee28ea1540",
     "url": "/static/css/main.f29c5ca1.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/founder.lauti.a1787946.png"
   },
   {
-    "revision": "51fc82773143e4543234",
-    "url": "/static/js/main.51fc8277.chunk.js"
+    "revision": "a324ca823aee28ea1540",
+    "url": "/static/js/main.a324ca82.chunk.js"
   },
   {
     "revision": "66365ed7309526c617d6b22553829bd7",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.f64d8389.chunk.css"
   },
   {
-    "revision": "9b94d5f754abcddc1933e525e3549837",
+    "revision": "2126d5209036b1f0060665d00ffe8a33",
     "url": "/index.html"
   }
 ];
