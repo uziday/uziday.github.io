@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/UziLogo.29541910.png"
   },
   {
-    "revision": "8c79fcd667f55875cc06",
+    "revision": "ffeee9f2454f20ece923",
     "url": "/static/css/main.7ed78e17.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/founder.lauti.a1787946.png"
   },
   {
-    "revision": "8c79fcd667f55875cc06",
-    "url": "/static/js/main.8c79fcd6.chunk.js"
+    "revision": "ffeee9f2454f20ece923",
+    "url": "/static/js/main.ffeee9f2.chunk.js"
   },
   {
     "revision": "66365ed7309526c617d6b22553829bd7",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.f64d8389.chunk.css"
   },
   {
-    "revision": "699db24f0af4c72fbd78218313948f39",
+    "revision": "d6ac5bf755aa736aaee5622ef43537c7",
     "url": "/index.html"
   }
 ];
