@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "295419102333d6e6b115b078f68aba3b",
-    "url": "/static/media/UziLogo.29541910.png"
+    "revision": "ee33ebe915b2f3d76df094968c8c9618",
+    "url": "/static/media/uziday.logo.ee33ebe9.png"
   },
   {
-    "revision": "b8939d2e1d26382193a0",
-    "url": "/static/css/main.7ed78e17.chunk.css"
+    "revision": "51fc82773143e4543234",
+    "url": "/static/css/main.f29c5ca1.chunk.css"
   },
   {
     "revision": "77bb4c4832ffb14fb64ef0114bc146c6",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/founder.lauti.a1787946.png"
   },
   {
-    "revision": "b8939d2e1d26382193a0",
-    "url": "/static/js/main.b8939d2e.chunk.js"
+    "revision": "51fc82773143e4543234",
+    "url": "/static/js/main.51fc8277.chunk.js"
   },
   {
     "revision": "66365ed7309526c617d6b22553829bd7",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.f64d8389.chunk.css"
   },
   {
-    "revision": "0246f8e2634d492fc77aef2ecb91fd22",
+    "revision": "9b94d5f754abcddc1933e525e3549837",
     "url": "/index.html"
   }
 ];
